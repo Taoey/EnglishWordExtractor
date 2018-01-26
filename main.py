@@ -1,5 +1,5 @@
-import IoUtil
-import Mydic
+from src import IoUtil
+from src import Mydic
 
 if __name__ == '__main__':
     wList=IoUtil.getWords()

@@ -1,7 +1,7 @@
 import  re
 
 
-filePath="data.txt"
+filePath="datas/data.txt"
 
 def getWords0():
     '''
